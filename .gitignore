@@ -104,3 +104,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+
+Library/
+Temp/
+Logs/
+Obj/
+Build/
+Builds/
+*.symbols.zip
